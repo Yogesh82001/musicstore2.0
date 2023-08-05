@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/musicstore2.0/static/css/main.073c9b0a.css",
+    "main.js": "/musicstore2.0/static/js/main.e65f4387.js",
+    "static/js/787.d2fe4a9e.chunk.js": "/musicstore2.0/static/js/787.d2fe4a9e.chunk.js",
+    "static/media/logo.svg": "/musicstore2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/musicstore2.0/index.html",
+    "main.073c9b0a.css.map": "/musicstore2.0/static/css/main.073c9b0a.css.map",
+    "main.e65f4387.js.map": "/musicstore2.0/static/js/main.e65f4387.js.map",
+    "787.d2fe4a9e.chunk.js.map": "/musicstore2.0/static/js/787.d2fe4a9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e65f4387.js"
+  ]
+}
